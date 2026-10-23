@@ -108,7 +108,6 @@ The API, API key authentication, CloudWatch monitoring, and SNS email alerting w
 
 **Screenshots**
 
-<img width="1974" height="938" alt="Screenshot 2026-10-23 171442" src="https://github.com/user-attachments/assets/3ac0cc4f-a2f0-4a7c-88d3-1957c06eccb2" />
 <img width="2559" height="1388" alt="Screenshot 2026-10-23 171000" src="https://github.com/user-attachments/assets/6d92bc93-a851-4b60-89ac-5f7e312bac8f" />
 <img width="2559" height="1010" alt="Screenshot 2026-10-23 170634" src="https://github.com/user-attachments/assets/5e20423b-f6d4-458c-9b5d-75c83589d295" />
 <img width="2559" height="684" alt="Screenshot 2026-10-23 170531" src="https://github.com/user-attachments/assets/eacdb050-e929-49f0-a48d-ed3ef7a0d37f" />
